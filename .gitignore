@@ -1,0 +1,14 @@
+# Data files — too large to commit
+*.json
+*.json.gz
+*.csv
+*.tsv
+
+# Virtual environment
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
