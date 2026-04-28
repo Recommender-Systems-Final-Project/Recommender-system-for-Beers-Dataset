@@ -101,8 +101,8 @@ Raw data files (`*.json.gz`) live in `datasets/` and are **gitignored** due to t
 
 | Source | Records | Format | Size (gz) |
 |---|---|---|---|
-| BeerAdvocate | ~1.6 M reviews | one Python-dict literal per line | ~448 MB |
-| RateBeer | ~1.7 M reviews | one Python-dict literal per line | ~399 MB |
+| BeerAdvocate | ~1.6 M reviews | one Python-dict literal per line | ~1655 MB |
+| RateBeer | ~1.7 M reviews | one Python-dict literal per line | ~1930 MB |
 
 > Both corpora come from the [Stanford SNAP](https://snap.stanford.edu/data/) Beer Reviews datasets.
 
