@@ -12,3 +12,4 @@ venv/
 
 # macOS
 .DS_Store
+lightgcn_model.pt
